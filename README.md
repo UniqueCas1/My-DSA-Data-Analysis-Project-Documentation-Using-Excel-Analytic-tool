@@ -39,6 +39,7 @@ By employing the use of pivot tables and calculated columns, I was able to answe
 ### ANALYSIS
 Below are some DAX Expressions used during my analysis:
 Creation of Pivot tables
+<img width="1294" height="511" alt="1" src="https://github.com/user-attachments/assets/c597d63a-1853-4463-8f30-a24bc1b2e042" />
 
 
 Creation of dashboard
@@ -49,9 +50,6 @@ Attached below is my interactive dashboard
 ### RESULTS AND INSIGHTS
 
 To see the full RESULT file [Amazon case study.xlsx](https://github.com/user-attachments/files/21251582/Amazon.case.study.xlsx)
-
-
-
 
 According to this analysis, the top 5 products of the Amazon sales data set in terms of the average rating by customers and reviews combined are all products under ‘Electronics’ Category of products.
 
