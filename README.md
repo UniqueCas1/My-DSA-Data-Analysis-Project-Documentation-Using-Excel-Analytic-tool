@@ -44,8 +44,8 @@ Creation of Pivot tables
 
 Creation of dashboard
 Attached below is my interactive dashboard
-<img width="1184" height="679" alt="#1" src="https://github.com/user-attachments/assets/cc29486c-e4ab-4b14-802c-f9553127c600" />
-<img width="1190" height="678" alt="#2" src="https://github.com/user-attachments/assets/64ec568f-3e16-4ff7-a6bf-ff357fae585e" />
+
+![Project Data Chart](https://raw.githubusercontent.com/UniqueCas1/My-DSA-Data-Analysis-Project-Documentation-Using-Excel-Analytic-tool/main/%231.png)
 
 ### RESULTS AND INSIGHTS
 
